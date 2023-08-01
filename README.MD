@@ -1,0 +1,2 @@
+<p>Welcome to my C++ repository. This repository is for me to keep track of the C++ code I am following with the book </p>
+<p>"A Complete Guide to Programming in C++" by Ulla Kirch-Prinz and Peter Prinz.</p>
